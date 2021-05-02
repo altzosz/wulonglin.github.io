@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wulonglin.github.io</id>
     <title>我的博客</title>
-    <updated>2021-05-02T08:53:12.286Z</updated>
+    <updated>2021-05-02T09:08:32.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wulonglin.github.io"/>
     <link rel="self" href="https://wulonglin.github.io/atom.xml"/>
@@ -1233,8 +1233,6 @@
 <li>第二项内容</li>
 <li>第三项内容，带 <code>code</code>文本</li>
 </ul>
-<h2 id="其他内容">其他内容</h2>
-<p>这是去往<a href="https://gridea.dev/">Gridea 主页链接</a>，这是一个行内代码<code>console.log('Hello World')</code>，这是<strong>强调文本</strong>，这是<em>斜体文本</em>，这是<s>删除文本</s>，下面是分割线</p>
 <hr>
 <p>下面是图片：</p>
 <figure data-type="image" tabindex="1"><img src="https://images.unsplash.com/photo-1563362375-684f5a29d125?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=600" alt="图片描述" loading="lazy"></figure>
@@ -1295,47 +1293,6 @@
 <li>第三项任务</li>
 <li>第四项任务</li>
 </ul>
-<h2 id="加强功能">加强功能</h2>
-<ul>
-<li>KaTeX 行内公式\sqrt{3x-1}+(1+x)^23<em>x</em>−1+(1+<em>x</em>)2</li>
-<li>KaTeX 块级公式</li>
-</ul>
-<p>\begin{array}{c} \nabla \times \vec{\mathbf{B}} -, \frac1c, \frac{\partial\vec{\mathbf{E}}}{\partial t} &amp; = \frac{4\pi}{c}\vec{\mathbf{j}} \nabla \cdot \vec{\mathbf{E}} &amp; = 4 \pi \rho \ \nabla \times \vec{\mathbf{E}}, +, \frac1c, \frac{\partial\vec{\mathbf{B}}}{\partial t} &amp; = \vec{\mathbf{0}} \ \nabla \cdot \vec{\mathbf{B}} &amp; = 0 \end{array}∇×<strong>B</strong>−<em>c</em>1∂<em>t</em>∂<strong>E</strong>∇×<strong>E</strong>+<em>c</em>1∂<em>t</em>∂<strong>B</strong>∇⋅<strong>B</strong>=<em>c</em>4<em>π</em><strong>j</strong>∇⋅<strong>E</strong>=<strong>0</strong>=0=4<em>π**ρ</em></p>
-<ul>
-<li>高亮文本示例高亮文本</li>
-<li>29th</li>
-<li>下面是缩略语示例</li>
-</ul>
-<p>The HTML specification</p>
-<ul>
-<li>下面是 footnote 示例</li>
-</ul>
-<p>Here is a footnote reference,[<a href="https://gridea-theme-rocky.netlify.com/post/3/#fn1">1]</a> and another.[<a href="https://gridea-theme-rocky.netlify.com/post/3/#fn2">2]</a></p>
-<p>文章内目录示例：</p>
-<ul>
-<li>
-<ul>
-<li>标题
-<ul>
-<li><a href="https://gridea-theme-rocky.netlify.com/post/3/#%E4%B8%89%E7%BA%A7%E6%A0%87%E9%A2%98%E6%98%BE%E7%A4%BA">三级标题显示</a></li>
-</ul>
-</li>
-<li><a href="https://gridea-theme-rocky.netlify.com/post/3/#%E6%99%AE%E9%80%9A%E6%AE%B5%E8%90%BD">普通段落</a></li>
-<li><a href="https://gridea-theme-rocky.netlify.com/post/3/#%E6%9C%89%E5%BA%8F%E5%88%97%E8%A1%A8">有序列表</a></li>
-<li><a href="https://gridea-theme-rocky.netlify.com/post/3/#%E6%97%A0%E5%BA%8F%E5%88%97%E8%A1%A8">无序列表</a></li>
-<li><a href="https://gridea-theme-rocky.netlify.com/post/3/#%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9">其他内容</a></li>
-<li><a href="https://gridea-theme-rocky.netlify.com/post/3/#%E5%9D%97%E4%BB%A3%E7%A0%81">块代码</a></li>
-<li><a href="https://gridea-theme-rocky.netlify.com/post/3/#%E8%A1%A8%E6%A0%BC">表格</a></li>
-<li><a href="https://gridea-theme-rocky.netlify.com/post/3/#%E4%BB%BB%E5%8A%A1%E5%88%97%E8%A1%A8">任务列表</a></li>
-<li><a href="https://gridea-theme-rocky.netlify.com/post/3/#%E5%8A%A0%E5%BC%BA%E5%8A%9F%E8%83%BD">加强功能</a></li>
-</ul>
-</li>
-</ul>
-<hr>
-<ol>
-<li>Here is the footnote. <a href="https://gridea-theme-rocky.netlify.com/post/3/#fnref1">↩︎</a></li>
-<li>Here's one with multiple blocks. <a href="https://gridea-theme-rocky.netlify.com/post/3/#fnref2">↩︎</a></li>
-</ol>
 ]]></content>
     </entry>
     <entry>
